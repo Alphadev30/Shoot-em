@@ -1,6 +1,6 @@
 <h1>SHOOT'EM </h1>
 <h2>Game was made using Unreal Engine 4</h2>
-<a href = "https://drive.google.com/file/d/1lLx48oYV7JbSleb4f7glPdURin2lc-U3/view?usp=sharing"> Click her to Download the Game  </a>
+<a href = "https://drive.google.com/file/d/1lLx48oYV7JbSleb4f7glPdURin2lc-U3/view?usp=sharing"> Click here to Download the Game  </a>
 <h3> Setup Size : 1 GB </h3>
 <h3>Game size : 5.5GB <h3>
 <p> Kill All the Enemies to win the game</p> 
