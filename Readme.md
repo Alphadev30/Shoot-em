@@ -17,14 +17,5 @@
 <img src="/Images/3.png" alt="Could not load image" style="max-width:100%;">
 <br>
 <hr>
-<br>
-<img src="/Images/4.jpg" alt="Could not load image" style="max-width:100%;">
-<br>
 <hr>
 <br>
-<hr>
-<br>
-<h3>Mini Gameplay:</h3>
-<video width="320" height="240" autoplay>
-  <source src="/Images/5.mkv" type="video/mkv">
-</video>
